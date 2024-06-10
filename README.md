@@ -1,0 +1,1 @@
+This is going to be a project that takes an inventory of what's in your closet and randomly combines it. 
